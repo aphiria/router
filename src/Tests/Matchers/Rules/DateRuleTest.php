@@ -44,7 +44,7 @@ class DateRuleTest extends TestCase
     public function testEmptyListOfFormatsThrowsException(): void
     {
         $this->expectException(InvalidArgumentException::class);
-        $this->expectExceptionMessage('No formats specified for Opulence\Routing\Matchers\Rules\DateRule');
+        $this->expectExceptionMessage(sprintf('No formats specified for %s', DateRule::class));
         new DateRule([]);
     }
 

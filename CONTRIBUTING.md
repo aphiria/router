@@ -1,3 +1,3 @@
 # Contributing to Aphiria
 
-We appreciate any and all contributions to Aphiria.  Please read the [documentation](https://www.aphiria.com/docs/contributing) to learn how to contribute.
+This repository is a read-only subtree split, and should not be contributed to directly.  Please review the main Aphiria repository's [contribution guide](https://github.com/aphiria/aphiria/blob/master/CONTRIBUTING.md) for details on how to contribute.
